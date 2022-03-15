@@ -1,2 +1,2 @@
 # Gerenciamento de Codigo Fonte
-## Usando Git
+## Usando GIT
